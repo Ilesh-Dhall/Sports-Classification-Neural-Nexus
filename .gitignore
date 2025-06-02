@@ -1,3 +1,7 @@
+# Directories
 /venv
-/dataset
-.py
+/sports
+/models
+
+# Datset 
+sports.zip

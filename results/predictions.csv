@@ -1,0 +1,501 @@
+Filename,Actual,Predicted
+air hockey/1.jpg,0,0
+air hockey/2.jpg,0,0
+air hockey/3.jpg,0,54
+air hockey/4.jpg,0,0
+air hockey/5.jpg,0,0
+ampute football/1.jpg,1,53
+ampute football/2.jpg,1,31
+ampute football/3.jpg,1,24
+ampute football/4.jpg,1,1
+ampute football/5.jpg,1,26
+archery/1.jpg,2,2
+archery/2.jpg,2,54
+archery/3.jpg,2,61
+archery/4.jpg,2,30
+archery/5.jpg,2,66
+arm wrestling/1.jpg,3,16
+arm wrestling/2.jpg,3,5
+arm wrestling/3.jpg,3,73
+arm wrestling/4.jpg,3,3
+arm wrestling/5.jpg,3,3
+axe throwing/1.jpg,4,67
+axe throwing/2.jpg,4,67
+axe throwing/3.jpg,4,4
+axe throwing/4.jpg,4,67
+axe throwing/5.jpg,4,31
+balance beam/1.jpg,5,92
+balance beam/2.jpg,5,5
+balance beam/3.jpg,5,15
+balance beam/4.jpg,5,5
+balance beam/5.jpg,5,92
+barell racing/1.jpg,6,6
+barell racing/2.jpg,6,16
+barell racing/3.jpg,6,93
+barell racing/4.jpg,6,6
+barell racing/5.jpg,6,6
+baseball/1.jpg,7,52
+baseball/2.jpg,7,24
+baseball/3.jpg,7,69
+baseball/4.jpg,7,17
+baseball/5.jpg,7,92
+basketball/1.jpg,8,60
+basketball/2.jpg,8,8
+basketball/3.jpg,8,83
+basketball/4.jpg,8,21
+basketball/5.jpg,8,15
+baton twirling/1.jpg,9,73
+baton twirling/2.jpg,9,4
+baton twirling/3.jpg,9,92
+baton twirling/4.jpg,9,49
+baton twirling/5.jpg,9,49
+bike polo/1.jpg,10,69
+bike polo/2.jpg,10,26
+bike polo/3.jpg,10,10
+bike polo/4.jpg,10,56
+bike polo/5.jpg,10,56
+billiards/1.jpg,11,85
+billiards/2.jpg,11,26
+billiards/3.jpg,11,11
+billiards/4.jpg,11,11
+billiards/5.jpg,11,11
+bmx/1.jpg,12,12
+bmx/2.jpg,12,78
+bmx/3.jpg,12,10
+bmx/4.jpg,12,12
+bmx/5.jpg,12,78
+bobsled/1.jpg,13,56
+bobsled/2.jpg,13,80
+bobsled/3.jpg,13,58
+bobsled/4.jpg,13,32
+bobsled/5.jpg,13,56
+bowling/1.jpg,14,4
+bowling/2.jpg,14,5
+bowling/3.jpg,14,74
+bowling/4.jpg,14,83
+bowling/5.jpg,14,14
+boxing/1.jpg,15,15
+boxing/2.jpg,15,15
+boxing/3.jpg,15,3
+boxing/4.jpg,15,15
+boxing/5.jpg,15,15
+bull riding/1.jpg,16,31
+bull riding/2.jpg,16,16
+bull riding/3.jpg,16,51
+bull riding/4.jpg,16,16
+bull riding/5.jpg,16,16
+bungee jumping/1.jpg,17,24
+bungee jumping/2.jpg,17,55
+bungee jumping/3.jpg,17,17
+bungee jumping/4.jpg,17,35
+bungee jumping/5.jpg,17,24
+canoe slamon/1.jpg,18,70
+canoe slamon/2.jpg,18,18
+canoe slamon/3.jpg,18,18
+canoe slamon/4.jpg,18,78
+canoe slamon/5.jpg,18,18
+cheerleading/1.jpg,19,18
+cheerleading/2.jpg,19,64
+cheerleading/3.jpg,19,31
+cheerleading/4.jpg,19,8
+cheerleading/5.jpg,19,68
+chuckwagon racing/1.jpg,20,89
+chuckwagon racing/2.jpg,20,20
+chuckwagon racing/3.jpg,20,64
+chuckwagon racing/4.jpg,20,20
+chuckwagon racing/5.jpg,20,20
+cricket/1.jpg,21,7
+cricket/2.jpg,21,31
+cricket/3.jpg,21,39
+cricket/4.jpg,21,21
+cricket/5.jpg,21,22
+croquet/1.jpg,22,22
+croquet/2.jpg,22,22
+croquet/3.jpg,22,22
+croquet/4.jpg,22,22
+croquet/5.jpg,22,22
+curling/1.jpg,23,81
+curling/2.jpg,23,23
+curling/3.jpg,23,57
+curling/4.jpg,23,59
+curling/5.jpg,23,23
+disc golf/1.jpg,24,30
+disc golf/2.jpg,24,24
+disc golf/3.jpg,24,22
+disc golf/4.jpg,24,24
+disc golf/5.jpg,24,22
+fencing/1.jpg,25,0
+fencing/2.jpg,25,25
+fencing/3.jpg,25,52
+fencing/4.jpg,25,68
+fencing/5.jpg,25,89
+field hockey/1.jpg,26,26
+field hockey/2.jpg,26,31
+field hockey/3.jpg,26,11
+field hockey/4.jpg,26,26
+field hockey/5.jpg,26,69
+figure skating men/1.jpg,27,27
+figure skating men/2.jpg,27,35
+figure skating men/3.jpg,27,27
+figure skating men/4.jpg,27,27
+figure skating men/5.jpg,27,27
+figure skating pairs/1.jpg,28,29
+figure skating pairs/2.jpg,28,28
+figure skating pairs/3.jpg,28,0
+figure skating pairs/4.jpg,28,52
+figure skating pairs/5.jpg,28,28
+figure skating women/1.jpg,29,29
+figure skating women/2.jpg,29,29
+figure skating women/3.jpg,29,29
+figure skating women/4.jpg,29,29
+figure skating women/5.jpg,29,29
+fly fishing/1.jpg,30,30
+fly fishing/2.jpg,30,36
+fly fishing/3.jpg,30,24
+fly fishing/4.jpg,30,30
+fly fishing/5.jpg,30,24
+football/1.jpg,31,31
+football/2.jpg,31,31
+football/3.jpg,31,45
+football/4.jpg,31,31
+football/5.jpg,31,31
+formula 1 racing/1.jpg,32,58
+formula 1 racing/2.jpg,32,32
+formula 1 racing/3.jpg,32,32
+formula 1 racing/4.jpg,32,55
+formula 1 racing/5.jpg,32,58
+frisbee/1.jpg,33,12
+frisbee/2.jpg,33,57
+frisbee/3.jpg,33,73
+frisbee/4.jpg,33,95
+frisbee/5.jpg,33,38
+gaga/1.jpg,34,7
+gaga/2.jpg,34,34
+gaga/3.jpg,34,20
+gaga/4.jpg,34,0
+gaga/5.jpg,34,40
+giant slalom/1.jpg,35,35
+giant slalom/2.jpg,35,35
+giant slalom/3.jpg,35,35
+giant slalom/4.jpg,35,35
+giant slalom/5.jpg,35,35
+golf/1.jpg,36,43
+golf/2.jpg,36,36
+golf/3.jpg,36,17
+golf/4.jpg,36,36
+golf/5.jpg,36,22
+hammer throw/1.jpg,37,42
+hammer throw/2.jpg,37,37
+hammer throw/3.jpg,37,6
+hammer throw/4.jpg,37,8
+hammer throw/5.jpg,37,95
+hang gliding/1.jpg,38,47
+hang gliding/2.jpg,38,35
+hang gliding/3.jpg,38,85
+hang gliding/4.jpg,38,38
+hang gliding/5.jpg,38,47
+harness racing/1.jpg,39,39
+harness racing/2.jpg,39,12
+harness racing/3.jpg,39,39
+harness racing/4.jpg,39,39
+harness racing/5.jpg,39,98
+high jump/1.jpg,40,40
+high jump/2.jpg,40,40
+high jump/3.jpg,40,40
+high jump/4.jpg,40,40
+high jump/5.jpg,40,40
+hockey/1.jpg,41,41
+hockey/2.jpg,41,68
+hockey/3.jpg,41,41
+hockey/4.jpg,41,13
+hockey/5.jpg,41,41
+horse jumping/1.jpg,42,42
+horse jumping/2.jpg,42,42
+horse jumping/3.jpg,42,42
+horse jumping/4.jpg,42,60
+horse jumping/5.jpg,42,42
+horse racing/1.jpg,43,43
+horse racing/2.jpg,43,6
+horse racing/3.jpg,43,64
+horse racing/4.jpg,43,43
+horse racing/5.jpg,43,43
+horseshoe pitching/1.jpg,44,39
+horseshoe pitching/2.jpg,44,18
+horseshoe pitching/3.jpg,44,36
+horseshoe pitching/4.jpg,44,37
+horseshoe pitching/5.jpg,44,34
+hurdles/1.jpg,45,54
+hurdles/2.jpg,45,45
+hurdles/3.jpg,45,98
+hurdles/4.jpg,45,13
+hurdles/5.jpg,45,45
+hydroplane racing/1.jpg,46,58
+hydroplane racing/2.jpg,46,95
+hydroplane racing/3.jpg,46,75
+hydroplane racing/4.jpg,46,46
+hydroplane racing/5.jpg,46,46
+ice climbing/1.jpg,47,47
+ice climbing/2.jpg,47,55
+ice climbing/3.jpg,47,47
+ice climbing/4.jpg,47,76
+ice climbing/5.jpg,47,85
+ice yachting/1.jpg,48,70
+ice yachting/2.jpg,48,48
+ice yachting/3.jpg,48,48
+ice yachting/4.jpg,48,48
+ice yachting/5.jpg,48,48
+jai alai/1.jpg,49,49
+jai alai/2.jpg,49,5
+jai alai/3.jpg,49,49
+jai alai/4.jpg,49,49
+jai alai/5.jpg,49,49
+javelin/1.jpg,50,45
+javelin/2.jpg,50,59
+javelin/3.jpg,50,60
+javelin/4.jpg,50,15
+javelin/5.jpg,50,40
+jousting/1.jpg,51,64
+jousting/2.jpg,51,64
+jousting/3.jpg,51,64
+jousting/4.jpg,51,51
+jousting/5.jpg,51,51
+judo/1.jpg,52,52
+judo/2.jpg,52,85
+judo/3.jpg,52,52
+judo/4.jpg,52,52
+judo/5.jpg,52,52
+lacrosse/1.jpg,53,26
+lacrosse/2.jpg,53,31
+lacrosse/3.jpg,53,71
+lacrosse/4.jpg,53,26
+lacrosse/5.jpg,53,93
+log rolling/1.jpg,54,18
+log rolling/2.jpg,54,11
+log rolling/3.jpg,54,34
+log rolling/4.jpg,54,68
+log rolling/5.jpg,54,34
+luge/1.jpg,55,55
+luge/2.jpg,55,55
+luge/3.jpg,55,46
+luge/4.jpg,55,55
+luge/5.jpg,55,78
+motorcycle racing/1.jpg,56,56
+motorcycle racing/2.jpg,56,56
+motorcycle racing/3.jpg,56,56
+motorcycle racing/4.jpg,56,18
+motorcycle racing/5.jpg,56,32
+mushing/1.jpg,57,57
+mushing/2.jpg,57,64
+mushing/3.jpg,57,57
+mushing/4.jpg,57,41
+mushing/5.jpg,57,5
+nascar racing/1.jpg,58,58
+nascar racing/2.jpg,58,58
+nascar racing/3.jpg,58,56
+nascar racing/4.jpg,58,58
+nascar racing/5.jpg,58,58
+olympic wrestling/1.jpg,60,59
+olympic wrestling/2.jpg,60,59
+olympic wrestling/3.jpg,60,59
+olympic wrestling/4.jpg,60,40
+olympic wrestling/5.jpg,60,5
+parallel bar/1.jpg,61,60
+parallel bar/2.jpg,61,92
+parallel bar/3.jpg,61,60
+parallel bar/4.jpg,61,59
+parallel bar/5.jpg,61,60
+pole climbing/1.jpg,62,16
+pole climbing/2.jpg,62,42
+pole climbing/3.jpg,62,78
+pole climbing/4.jpg,62,61
+pole climbing/5.jpg,62,95
+pole dancing/1.jpg,63,46
+pole dancing/2.jpg,63,29
+pole dancing/3.jpg,63,10
+pole dancing/4.jpg,63,29
+pole dancing/5.jpg,63,29
+pole vault/1.jpg,64,18
+pole vault/2.jpg,64,55
+pole vault/3.jpg,64,54
+pole vault/4.jpg,64,73
+pole vault/5.jpg,64,61
+polo/1.jpg,65,64
+polo/2.jpg,65,64
+polo/3.jpg,65,64
+polo/4.jpg,65,64
+polo/5.jpg,65,64
+pommel horse/1.jpg,66,59
+pommel horse/2.jpg,66,59
+pommel horse/3.jpg,66,65
+pommel horse/4.jpg,66,86
+pommel horse/5.jpg,66,65
+rings/1.jpg,67,66
+rings/2.jpg,67,89
+rings/3.jpg,67,66
+rings/4.jpg,67,7
+rings/5.jpg,67,66
+rock climbing/1.jpg,68,20
+rock climbing/2.jpg,68,17
+rock climbing/3.jpg,68,24
+rock climbing/4.jpg,68,89
+rock climbing/5.jpg,68,20
+roller derby/1.jpg,69,68
+roller derby/2.jpg,69,41
+roller derby/3.jpg,69,68
+roller derby/4.jpg,69,68
+roller derby/5.jpg,69,68
+rollerblade racing/1.jpg,70,31
+rollerblade racing/2.jpg,70,6
+rollerblade racing/3.jpg,70,58
+rollerblade racing/4.jpg,70,69
+rollerblade racing/5.jpg,70,31
+rowing/1.jpg,71,17
+rowing/2.jpg,71,70
+rowing/3.jpg,71,18
+rowing/4.jpg,71,55
+rowing/5.jpg,71,80
+rugby/1.jpg,72,31
+rugby/2.jpg,72,71
+rugby/3.jpg,72,31
+rugby/4.jpg,72,71
+rugby/5.jpg,72,31
+sailboat racing/1.jpg,73,72
+sailboat racing/2.jpg,73,72
+sailboat racing/3.jpg,73,70
+sailboat racing/4.jpg,73,72
+sailboat racing/5.jpg,73,84
+shot put/1.jpg,74,89
+shot put/2.jpg,74,59
+shot put/3.jpg,74,15
+shot put/4.jpg,74,59
+shot put/5.jpg,74,62
+shuffleboard/1.jpg,75,74
+shuffleboard/2.jpg,75,74
+shuffleboard/3.jpg,75,74
+shuffleboard/4.jpg,75,59
+shuffleboard/5.jpg,75,74
+sidecar racing/1.jpg,76,32
+sidecar racing/2.jpg,76,68
+sidecar racing/3.jpg,76,88
+sidecar racing/4.jpg,76,75
+sidecar racing/5.jpg,76,70
+ski jumping/1.jpg,77,81
+ski jumping/2.jpg,77,47
+ski jumping/3.jpg,77,78
+ski jumping/4.jpg,77,42
+ski jumping/5.jpg,77,76
+sky surfing/1.jpg,78,78
+sky surfing/2.jpg,78,77
+sky surfing/3.jpg,78,78
+sky surfing/4.jpg,78,38
+sky surfing/5.jpg,78,79
+skydiving/1.jpg,79,56
+skydiving/2.jpg,79,78
+skydiving/3.jpg,79,78
+skydiving/4.jpg,79,35
+skydiving/5.jpg,79,78
+snow boarding/1.jpg,80,18
+snow boarding/2.jpg,80,79
+snow boarding/3.jpg,80,78
+snow boarding/4.jpg,80,70
+snow boarding/5.jpg,80,38
+snowmobile racing/1.jpg,81,46
+snowmobile racing/2.jpg,81,80
+snowmobile racing/3.jpg,81,80
+snowmobile racing/4.jpg,81,80
+snowmobile racing/5.jpg,81,56
+speed skating/1.jpg,82,78
+speed skating/2.jpg,82,41
+speed skating/3.jpg,82,23
+speed skating/4.jpg,82,29
+speed skating/5.jpg,82,81
+steer wrestling/1.jpg,83,82
+steer wrestling/2.jpg,83,54
+steer wrestling/3.jpg,83,88
+steer wrestling/4.jpg,83,71
+steer wrestling/5.jpg,83,42
+sumo wrestling/1.jpg,84,16
+sumo wrestling/2.jpg,84,3
+sumo wrestling/3.jpg,84,69
+sumo wrestling/4.jpg,84,83
+sumo wrestling/5.jpg,84,52
+surfing/1.jpg,85,85
+surfing/2.jpg,85,84
+surfing/3.jpg,85,18
+surfing/4.jpg,85,85
+surfing/5.jpg,85,84
+swimming/1.jpg,86,95
+swimming/2.jpg,86,95
+swimming/3.jpg,86,85
+swimming/4.jpg,86,85
+swimming/5.jpg,86,85
+table tennis/1.jpg,87,94
+table tennis/2.jpg,87,0
+table tennis/3.jpg,87,26
+table tennis/4.jpg,87,65
+table tennis/5.jpg,87,59
+tennis/1.jpg,88,95
+tennis/2.jpg,88,73
+tennis/3.jpg,88,96
+tennis/4.jpg,88,87
+tennis/5.jpg,88,45
+track bicycle/1.jpg,89,88
+track bicycle/2.jpg,89,88
+track bicycle/3.jpg,89,88
+track bicycle/4.jpg,89,88
+track bicycle/5.jpg,89,39
+trapeze/1.jpg,90,28
+trapeze/2.jpg,90,55
+trapeze/3.jpg,90,55
+trapeze/4.jpg,90,89
+trapeze/5.jpg,90,89
+tug of war/1.jpg,91,71
+tug of war/2.jpg,91,91
+tug of war/3.jpg,91,31
+tug of war/4.jpg,91,64
+tug of war/5.jpg,91,51
+ultimate/1.jpg,92,64
+ultimate/2.jpg,92,19
+ultimate/3.jpg,92,53
+ultimate/4.jpg,92,91
+ultimate/5.jpg,92,71
+uneven bars/1.jpg,93,60
+uneven bars/2.jpg,93,40
+uneven bars/3.jpg,93,60
+uneven bars/4.jpg,93,20
+uneven bars/5.jpg,93,60
+volleyball/1.jpg,94,8
+volleyball/2.jpg,94,5
+volleyball/3.jpg,94,96
+volleyball/4.jpg,94,93
+volleyball/5.jpg,94,8
+water cycling/1.jpg,95,94
+water cycling/2.jpg,95,94
+water cycling/3.jpg,95,82
+water cycling/4.jpg,95,6
+water cycling/5.jpg,95,94
+water polo/1.jpg,96,95
+water polo/2.jpg,96,95
+water polo/3.jpg,96,17
+water polo/4.jpg,96,95
+water polo/5.jpg,96,85
+weightlifting/1.jpg,97,96
+weightlifting/2.jpg,97,0
+weightlifting/3.jpg,97,95
+weightlifting/4.jpg,97,96
+weightlifting/5.jpg,97,95
+wheelchair basketball/1.jpg,98,59
+wheelchair basketball/2.jpg,98,97
+wheelchair basketball/3.jpg,98,59
+wheelchair basketball/4.jpg,98,45
+wheelchair basketball/5.jpg,98,60
+wheelchair racing/1.jpg,99,39
+wheelchair racing/2.jpg,99,93
+wheelchair racing/3.jpg,99,64
+wheelchair racing/4.jpg,99,88
+wheelchair racing/5.jpg,99,45
+wingsuit flying/1.jpg,100,58
+wingsuit flying/2.jpg,100,32
+wingsuit flying/3.jpg,100,86
+wingsuit flying/4.jpg,100,88
+wingsuit flying/5.jpg,100,1
